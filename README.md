@@ -7,7 +7,11 @@
 [![GitHub stars](https://img.shields.io/github/stars/xmrig/xmrig.svg)](https://github.com/xmrig/xmrig/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/xmrig/xmrig.svg)](https://github.com/xmrig/xmrig/network)
 
-XMRig is a high performance, open source, cross platform RandomX, KawPow, CryptoNight, AstroBWT and [GhostRider](https://github.com/xmrig/xmrig/tree/master/src/crypto/ghostrider#readme) unified CPU/GPU miner and [RandomX benchmark](https://xmrig.com/benchmark). Official binaries are available for Windows, Linux, macOS and FreeBSD.
+Mining Monero with Frens
+
+![alt text](https://raw.githubusercontent.com/Monerochan-Biz/Monerochan-Miner/master/images/pool.cleaned.png "Monerochan Pool")
+
+
 
 ## Mining backends
 - **CPU** (x64/ARMv8)
