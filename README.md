@@ -1,4 +1,4 @@
-# XMRig
+# Monerochan-Miner a custom XMRig fork
 
 [![Github All Releases](https://img.shields.io/github/downloads/xmrig/xmrig/total.svg)](https://github.com/xmrig/xmrig/releases)
 [![GitHub release](https://img.shields.io/github/release/xmrig/xmrig/all.svg)](https://github.com/xmrig/xmrig/releases)
@@ -33,6 +33,6 @@ The preferred way to configure the miner is the [JSON config file](https://xmrig
 * **[sech1](https://github.com/SChernykh)**
 
 ## Contacts
-* support@xmrig.com
-* [reddit](https://www.reddit.com/user/XMRig/)
-* [twitter](https://twitter.com/xmrig_dev)
+* https://matrix.to/#/#pool.monerochan.biz:matrix.org
+* [reddit](https://www.reddit.com/r/MoneroChanPool/)
+* [twitter](https://twitter.com/Crypt0_Bear)
