@@ -14,9 +14,8 @@ Mining Monero with Frens
 
 
 ## Mining backends
-- **CPU** (x64/ARMv8)
-- **OpenCL** for AMD GPUs.
-- **CUDA** for NVIDIA GPUs via external [CUDA plugin](https://github.com/xmrig/xmrig-cuda).
+- **CPU** (x64/ARMv8) - Monero only pool
+
 
 ## Download
 * **[Binary releases](https://github.com/xmrig/xmrig/releases)**
