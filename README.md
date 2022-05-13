@@ -29,14 +29,23 @@ The preferred way to configure the miner is the [JSON config file](https://xmrig
 * **[Workers](http://workers.xmrig.info)** helps manage your miners via HTTP API.
 
 ## Donations
-* Default donation 1% (1 minute in 100 minutes) can be increased via option `donate-level` or disabled in source code.
-* XMR: `48edfHu7V9Z84YzzMa6fUueoELZ9ZRXq9VetWzYGzKt52XU5xvqgzYnDK9URnRoJMk1j8nLwEVsaSWJ4fhdUyZijBGUicoD`
+* Default donation was disabled in source code.
+* still can set via donate-level
+* You can donate to the original xmrig dev below
+* XMR donate to og xmrig dev from https://github.com/xmrig/xmrig: `48edfHu7V9Z84YzzMa6fUueoELZ9ZRXq9VetWzYGzKt52XU5xvqgzYnDK9URnRoJMk1j8nLwEVsaSWJ4fhdUyZijBGUicoD`
 
 ## Developers
-* **[xmrig](https://github.com/xmrig)**
-* **[sech1](https://github.com/SChernykh)**
+* **[Crypt0-Bear](https://twitter.com/Crypt0_Bear)**
+
+
+
 
 ## Contacts
 * https://matrix.to/#/#pool.monerochan.biz:matrix.org
 * [reddit](https://www.reddit.com/r/MoneroChanPool/)
 * [twitter](https://twitter.com/Crypt0_Bear)
+
+
+### Based on projects by :
+* **[xmrig](https://github.com/xmrig)**
+* **[sech1](https://github.com/SChernykh)**
